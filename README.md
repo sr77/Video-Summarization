@@ -15,11 +15,11 @@ Showing images: <strong> imshow(title, img_matrix) </strong> -> title can be set
 <br>
 
 Forming Histogram : Counting the frequency of all the intensities starting from 0 to 255 and then plotting the frequency distribution using pylab. Example h is the array containing frequency distribution then <br>
-<code>import pylab as plt 
-plt.title('Title') 
-plt.plot(h) 
-plt.show()
-</code>
+<code>import pylab as plt </code> <br />
+<code> plt.title('Title') </code> <br />
+<code> plt.plot(h) </code> <br />
+<code> plt.show() </code> <br />
+
 <br>
 <br>
 
