@@ -1,3 +1,4 @@
+#Help from http://www.ijcset.net/docs/Volumes/volume2issue1/ijcset2012020103.pdf
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt
