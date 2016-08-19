@@ -33,11 +33,11 @@ Results of Histogram equalizations and comparisons with and without using OpenCV
 
 <strong> Image Segmentation </strong> : Without using any OpenCV functions. Based on Adaptive Threshold<br>
 Results of Image Segmentation <br>
-<img src="/Basics/result_segmentation1.png"
+<img src="result_segmentation1.png"
 <br>
 <br>
 Results of Image Segmentation <br>
-<img src="/Basics/result_segmentation.png"
+<img src="result_segmentation.png"
 <br>
 <br>
 
