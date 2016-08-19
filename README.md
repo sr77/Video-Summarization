@@ -14,7 +14,7 @@ Showing images: <strong> imshow(title, img_matrix) </strong> -> title can be set
 <br>
 <br>
 
-Forming Histogram : Counting the frequency of all the intensities starting from 0 to 255 and then plotting the frequency distribution using pylab. Example h is the array containing frequency distribution then <br>
+<strong>Forming Histogram </strong> : Counting the frequency of all the intensities starting from 0 to 255 and then plotting the frequency distribution using pylab. Example h is the array containing frequency distribution then <br>
 <code>import pylab as plt </code> <br />
 <code> plt.title('Title') </code> <br />
 <code> plt.plot(h) </code> <br />
@@ -22,4 +22,9 @@ Forming Histogram : Counting the frequency of all the intensities starting from 
 
 <br>
 <br>
+
+<strong>Histogram Equalization </strong>: A technique for image enhancement <br>
+Results of Histogram equalizations and comparisons with and without using OpenCV functions<br>
+
+
 
