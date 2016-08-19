@@ -25,6 +25,7 @@ Showing images: <strong> imshow(title, img_matrix) </strong> -> title can be set
 
 <strong>Histogram Equalization </strong>: A technique for image enhancement <br>
 Results of Histogram equalizations and comparisons with and without using OpenCV functions<br>
+<img src="result_histo.png">
 
 
 
