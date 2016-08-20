@@ -42,7 +42,7 @@ Results of Image Segmentation <br>
 <br>
 <br>
 Results of Image Segmentation <br>
-<img src="result_segmentation.png"
+<img src="result_segmentation2.png"
 <br>
 <br>
 
