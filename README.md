@@ -36,13 +36,13 @@ Results of Histogram equalizations and comparisons with and without using OpenCV
 <br>
 Results of Image Segmentation <br>
 
-<img src="result_segmentation1.png"
+<img src="result_segmentation2.png"
 <br>
 <br>
 <br>
 <br>
 Results of Image Segmentation <br>
-<img src="result_segmentation2.png"
+<img src="result_segmentation.png"
 <br>
 <br>
 
